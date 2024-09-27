@@ -19,7 +19,7 @@ This repository contains tools, scripts, and guides for performing malware analy
 
 2. Install Volatility:
    ```bash
-   cd malware-analysis/setup-scripts
+   cd cyberspace017/setup-scripts
    bash install-volatility.sh
 
 3. Clone the repository:
